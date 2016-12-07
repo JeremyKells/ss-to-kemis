@@ -5,7 +5,7 @@ This takes a Survey Solutions export (tabular format, for TA and SLSS assessment
 
 ## Dependancies
 
- - python 2.7.x - www.python.org
+ - python 2.7.x - www.python.org on Windows (uses [msvcrt](https://docs.python.org/2/library/msvcrt.html) module)
 
 ## Usage:
 
