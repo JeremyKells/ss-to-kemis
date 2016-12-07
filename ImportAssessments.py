@@ -1,6 +1,3 @@
-# GetExport TA | python ImportAssessments.py | sqlcmd -d KEMIS
-
-
 import os, sys, msvcrt
 import StringIO
 import csv
