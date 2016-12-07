@@ -13,3 +13,7 @@ Or end to end:
 
  - `GetExport TA | python ImportAssessments.py | sqlcmd -d KEMIS`
 
+## References:
+
+ - GetExport - https://github.com/JeremyKells/SurveySolutionsAPI
+ - sqlcmd    - https://msdn.microsoft.com/en-us/library/ms162773
