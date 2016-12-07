@@ -3,6 +3,10 @@ Converts Survey Solutions export (tabular) to SQL statements for KEMIS
 
 This takes a Survey Solutions export (tabular format, for TA and SLSS assessments) via stdin and returns on stdout SQL statements to insert the data into KEMIS
 
+## Dependancies
+
+ - python 2.7.x - www.python.org
+
 ## Usage:
 
 By itself, zipfile to sql:
