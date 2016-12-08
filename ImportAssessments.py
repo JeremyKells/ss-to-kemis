@@ -15,6 +15,7 @@ def processFile(archive, assessmentType):
 
 
     print "SET QUOTED_IDENTIFIER ON"
+    print "SET XACT_ABORT ON"
     print "declare @paID int"
 
     with archive.open('%s.tab' % assessments[assessmentType]) as tabfile:
